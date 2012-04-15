@@ -1,0 +1,9 @@
+c:\users\mal & barb\documents\visual studio 2010\Projects\Resume\Resume\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mal & barb\documents\visual studio 2010\Projects\Resume\Resume\bin\Resume.dll
+c:\users\mal & barb\documents\visual studio 2010\Projects\Resume\Resume\bin\Resume.pdb
+c:\users\mal & barb\documents\visual studio 2010\Projects\Resume\Resume\bin\EntityFramework.dll
+c:\users\mal & barb\documents\visual studio 2010\Projects\Resume\Resume\bin\EntityFramework.xml
+c:\users\mal & barb\documents\visual studio 2010\Projects\Resume\Resume\obj\Debug\Resume.dll
+c:\users\mal & barb\documents\visual studio 2010\Projects\Resume\Resume\obj\Debug\Resume.pdb
+c:\users\mal & barb\documents\visual studio 2010\Projects\Resume\Resume\bin\Content\paper_2.png
+c:\users\mal & barb\documents\visual studio 2010\Projects\Resume\Resume\bin\Content\thornton-resume.pdf
